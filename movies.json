@@ -1,5 +1,4 @@
-{
-  "movies": [
+[
     {
       "id": 278,
       "title": "The Shawshank Redemption",
@@ -1347,5 +1346,4 @@
         "Comedy"
       ]
     }
-  ]
-}
+]
